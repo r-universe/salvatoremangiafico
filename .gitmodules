@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ImML"]
+	path = ImML
+	url = https://github.com/cran/ImML
 [submodule "rcompanion"]
 	path = rcompanion
 	url = https://github.com/cran/rcompanion
